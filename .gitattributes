@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+lynchfond.gif filter=lfs diff=lfs merge=lfs -text
+lynchvideo.mp4 filter=lfs diff=lfs merge=lfs -text
+cocteaufond.gif filter=lfs diff=lfs merge=lfs -text
+lynchvid.mp4 filter=lfs diff=lfs merge=lfs -text
+Cocteaufond.gif filter=lfs diff=lfs merge=lfs -text
