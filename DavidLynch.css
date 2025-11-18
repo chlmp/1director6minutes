@@ -91,6 +91,7 @@ iframe {
   cursor: pointer;
   justify-content: center;
   /*aling-content: center;*/
+  position: absolute
   top: 600px;
 }
 
