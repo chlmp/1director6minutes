@@ -2,6 +2,13 @@ html {
 scroll-snap-type: y mandatory;
 scroll-padding-top: 20px;
 } 
+@font-face {
+    font-family: 'mul'; 
+    src: url('mulhollanddrive.woff2') format('woff2'), 
+         url('Bimbo.woff') format('woff');  
+    font-weight: normal;
+    font-style: normal;
+}
 
 nav {
   position: sticky;
@@ -16,7 +23,7 @@ nav {
   justify-content: center;
   align-items: center;
   color: #f7f7f7;
-  font-family: 'Anton', sans-serif;
+  font-family: 'mul', sans-serif;
   font-size: 3em;
   text-transform: uppercase;
 }
