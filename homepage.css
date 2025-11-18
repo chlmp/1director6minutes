@@ -23,8 +23,8 @@ body {
   align-items: center;
   flex-direction: column;
   overflow: hidden;
-  visibility: hidden; /* CLÉ : Rend le contenu invisible mais garde l'espace */
-  opacity: 0;         /* CLÉ : Assure une transition en douceur plus tard */
+  visibility: hidden; 
+  opacity: 0;        
   transition: opacity 1s ease-in-out;
 }
 
