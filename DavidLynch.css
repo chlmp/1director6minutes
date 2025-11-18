@@ -1,6 +1,6 @@
 html { 
 scroll-snap-type: y mandatory;
-scroll-padding-top: 20px;
+scroll-padding-top: 30px;
 } 
 @font-face {
     font-family: 'mul'; 
