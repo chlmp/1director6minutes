@@ -7,7 +7,7 @@
 }
 
 :root {
-  --card-height: 300%;
+  --card-height: 100%;
   --card-width: calc(var(--card-height) / 1.5);
 }
 * {
